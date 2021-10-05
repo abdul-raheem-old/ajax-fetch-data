@@ -19,7 +19,7 @@ Open "ajax-fetch-data" and copy all files to your project.
 ```html
 <script src="ajax_fetch_data.js"></script>  
 ```
-``````Note: Always include this in **head** of document.``````
+``````Note: Always include this inside <head></head> of document.``````
 
 ### Fetch data
 To fetch the data you should call the JS function **fetch_data()**.
