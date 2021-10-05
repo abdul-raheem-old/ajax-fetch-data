@@ -1,5 +1,5 @@
 # ajax-fetch-data
-Javascript function to fetch data from another page with reloading it.
+Javascript function to fetch data from another page without reloading it.
 
 ## INSTALATION
 
